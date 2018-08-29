@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\chami\onedrive\devry\july 2018\programming with lab\ms visual studio_project\finalproject\finalproject\source.cpp(23): warning C4101: 'AverageSong_Length': unreferenced local variable
+c:\users\chami\onedrive\devry\july 2018\programming with lab\ms visual studio_project\finalproject\finalproject\source.cpp(23): warning C4101: 'totalAverage': unreferenced local variable
+  FinalProject.vcxproj -> C:\Users\chami\OneDrive\DeVry\July 2018\Programming with Lab\MS Visual Studio_Project\FinalProject\x64\Debug\FinalProject.exe
